@@ -1,4 +1,4 @@
-# Fake News Detector 📰
+# Fake News NLP Detector 📰
 
 A simple machine learning classifier built with **scikit-learn** and **NLTK** to detect fake news based on title and text content using **TF-IDF** and **Logistic Regression**.
 
